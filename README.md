@@ -1,0 +1,133 @@
+# 📦 Supply Chain Operations & Procurement Analytics Dashboard
+
+## 📖 Project Overview
+
+This project focuses on analyzing procurement, inventory, supplier, and logistics performance using Power BI. The dashboard provides end-to-end visibility into supply chain operations and helps stakeholders monitor key performance indicators (KPIs), identify bottlenecks, and make data-driven decisions.
+
+---
+
+## 🎯 Business Objective
+
+Organizations often struggle with fragmented supply chain data, making it difficult to monitor inventory levels, supplier performance, procurement spending, and logistics efficiency.
+
+This dashboard was developed to:
+
+- Improve supply chain visibility
+- Monitor procurement and inventory KPIs
+- Evaluate supplier performance
+- Support data-driven decision-making
+- Optimize inventory and operational efficiency
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+
+---
+
+## 📊 Dashboard Features
+
+### Executive Summary
+- Overall Supply Chain Performance
+- Procurement Spend Analysis
+- Inventory Health Overview
+- Supplier Performance Snapshot
+
+### Procurement Analytics
+- Total Procurement Spend
+- Purchase Order Analysis
+- Procurement Trend Analysis
+- Supplier-wise Spend Distribution
+
+### Inventory Analytics
+- Inventory Turnover
+- Inventory Aging
+- Stock-Out Analysis
+- Fill Rate Monitoring
+
+### Supplier Performance
+- Supplier On-Time Delivery %
+- Lead Time Analysis
+- Vendor Performance Tracking
+- Supplier Reliability Assessment
+
+### Logistics Analytics
+- Order Fulfillment Rate
+- Shipment Performance
+- Delivery Lead Time
+- Logistics Efficiency Metrics
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+| KPI | Description |
+|------|------------|
+| Procurement Spend | Total procurement expenditure |
+| Inventory Turnover | Frequency of inventory utilization |
+| Stock-Out Rate | Percentage of inventory shortages |
+| Fill Rate | Order fulfillment efficiency |
+| Supplier On-Time Delivery % | Supplier delivery performance |
+| Average Lead Time | Time taken for order fulfillment |
+| Inventory Aging | Analysis of aging inventory |
+| Order Fulfillment Rate | Successful order completion rate |
+
+---
+
+## 🚀 Project Highlights
+
+- Developed an end-to-end Power BI dashboard to monitor procurement, inventory, supplier, and logistics performance.
+- Created KPI scorecards for Inventory Turnover, Stock-Out Rate, Procurement Spend, and Supplier On-Time Delivery.
+- Built interactive reports with drill-through and filtering capabilities.
+- Developed DAX measures for inventory aging, lead time analysis, fill rate, and supplier performance tracking.
+- Automated reporting processes to reduce manual effort and improve reporting efficiency.
+- Generated actionable insights to support inventory optimization and operational decision-making.
+
+---
+
+## 💡 Business Impact
+
+- Improved visibility across supply chain operations.
+- Enabled proactive inventory management and stock monitoring.
+- Enhanced supplier performance tracking and evaluation.
+- Supported procurement optimization through spend analysis.
+- Reduced manual reporting effort through dashboard automation.
+
+---
+
+## 📷 Dashboard Screenshots
+
+### Executive Summary (Revenue | Inventory | Logistics | Quality )
+<img width="889" height="500" alt="SupplyChainAnlyticsPage1" src="https://github.com/user-attachments/assets/3ce9417d-eb28-45a4-9d44-93eae6ef1805" />
+
+
+### Lead Time & Operational Efficiency Analysis
+<img width="887" height="497" alt="SupplyChainAnlyticsPage" src="https://github.com/user-attachments/assets/1fff635b-ec02-4231-884f-4331bc2ab8ea" />
+
+
+---
+
+## 🔍 Key Insights
+
+- Identified suppliers with below-target on-time delivery performance.
+- Highlighted slow-moving and aging inventory.
+- Improved tracking of procurement spending trends.
+- Monitored stock-out risks to support inventory planning.
+- Enabled data-driven supply chain performance reviews.
+
+---
+
+## 📌 Conclusion
+
+This dashboard demonstrates how Power BI can be used to transform supply chain data into actionable insights. By integrating procurement, inventory, supplier, and logistics analytics into a single platform, organizations can improve operational efficiency, reduce costs, and make informed business decisions.
+
+---
+
+## 👩‍💻 Author
+
+**Meera Nachare**
+
+Power BI | SQL | Supply Chain Analytics | Business IntelligenceLead Time & Operational Efficiency Analysis
